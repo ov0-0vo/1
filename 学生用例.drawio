@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T02:50:55.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="L89gugby1cvX6FgmilDD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T02:51:50.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="BO0N05QBNpbBc-KBtU6y" version="21.2.9" type="github">
   <diagram name="第 1 页" id="V3iQ8xnQVVkafoGxsatK">
     <mxGraphModel dx="580" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,8 +23,8 @@
         <mxCell id="t-4CvnlxESvYczC8NW54-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="t-4CvnlxESvYczC8NW54-3" target="t-4CvnlxESvYczC8NW54-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="440" width="30" height="60" as="geometry" />
+        <mxCell id="t-4CvnlxESvYczC8NW54-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="t-4CvnlxESvYczC8NW54-21" value="知识学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
