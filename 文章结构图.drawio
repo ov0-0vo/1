@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T03:34:54.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="0bFuysOLALD0j2-6Z9pQ" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T03:39:53.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="b3B4obww1Ajwevnv1J1B" version="21.2.9" type="github">
   <diagram name="第 1 页" id="l_syPJzlnjPqEEr46ZRa">
     <mxGraphModel dx="841" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,32 +28,26 @@
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-2" value="第二章 相关理论知识及技术" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="60" y="270" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OMgu2SZa8DHDWM3YxXOs-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="OMgu2SZa8DHDWM3YxXOs-7" target="OMgu2SZa8DHDWM3YxXOs-9">
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="OMgu2SZa8DHDWM3YxXOs-7" target="OMgu2SZa8DHDWM3YxXOs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OMgu2SZa8DHDWM3YxXOs-7" value="第二章 相关理论知识及技术" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-7" value="第三章 相关理论知识及技术" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="260" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="OMgu2SZa8DHDWM3YxXOs-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="OMgu2SZa8DHDWM3YxXOs-9" target="OMgu2SZa8DHDWM3YxXOs-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OMgu2SZa8DHDWM3YxXOs-9" value="第三章 需求分析与系统设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="60" y="700" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="OMgu2SZa8DHDWM3YxXOs-10" target="OMgu2SZa8DHDWM3YxXOs-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-10" value="第四章 系统实现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="60" y="900" width="260" height="130" as="geometry" />
+          <mxGeometry x="60" y="720" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=classic;fillColor=#ffe6cc;" edge="1" parent="1" source="OMgu2SZa8DHDWM3YxXOs-11" target="OMgu2SZa8DHDWM3YxXOs-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-11" value="第五章 系统测试" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1120" width="260" height="130" as="geometry" />
+          <mxGeometry x="60" y="970" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-12" value="第六章 总结与展望" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1350" width="260" height="130" as="geometry" />
+          <mxGeometry x="60" y="1220" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-24" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="630" y="210" width="260" height="50" as="geometry" />
@@ -66,6 +60,18 @@
         </mxCell>
         <mxCell id="OMgu2SZa8DHDWM3YxXOs-30" value="ChatGPT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="630" y="390" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-33" value="Java、SSM框架" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-34" value="Java、SSM框架" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="620" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-35" value="Java、SSM框架" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMgu2SZa8DHDWM3YxXOs-36" value="Java、SSM框架" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="630" y="550" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
