@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T07:32:31.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="ng5C9k4937PwzSgzy4iB" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T07:33:20.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="ozjkEU3-NXK0gCa5jtye" version="21.2.9" type="github">
   <diagram name="第 1 页" id="S6Jak_HYQyeMZW4X6Wfz">
     <mxGraphModel dx="1081" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,16 +48,22 @@
           <mxGeometry x="170" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OQ7InEq07p2cIE-FzZFH-15" value="评价内容" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="610" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OQ7InEq07p2cIE-FzZFH-16" value="评分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="480" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OQ7InEq07p2cIE-FzZFH-17" value="学号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="620" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OQ7InEq07p2cIE-FzZFH-18" value="学生姓名" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="620" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ7InEq07p2cIE-FzZFH-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#d79b00;strokeWidth=3;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#ffe6cc;" edge="1" parent="1" source="OQ7InEq07p2cIE-FzZFH-20" target="OQ7InEq07p2cIE-FzZFH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ7InEq07p2cIE-FzZFH-20" value="评价日期" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
