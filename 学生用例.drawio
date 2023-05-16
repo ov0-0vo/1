@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T15:02:18.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="gJi-R53aOk9n_Q99bCX7" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T15:05:16.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="IB6Y3604DlEY0I_HKY0M" version="21.3.0" type="github">
   <diagram name="第 1 页" id="V3iQ8xnQVVkafoGxsatK">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t-4CvnlxESvYczC8NW54-2" value="发布问题" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-2" value="发布问题" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-4CvnlxESvYczC8NW54-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t-4CvnlxESvYczC8NW54-3" target="t-4CvnlxESvYczC8NW54-2" edge="1">
@@ -34,19 +34,19 @@
         <mxCell id="t-4CvnlxESvYczC8NW54-3" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="440" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-21" value="知识学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-21" value="知识学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-24" value="课程公告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-24" value="课程公告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-25" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-25" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-27" value="发送私信" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-27" value="发送私信" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-4CvnlxESvYczC8NW54-28" value="智能答疑" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="t-4CvnlxESvYczC8NW54-28" value="智能答疑" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;shape=ellipse;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
