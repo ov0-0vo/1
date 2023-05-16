@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T14:54:00.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="hh_6fjfwSAtSV3QF6YQ1" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T14:55:58.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="W6kxrc_1Al9X5EuFFtE4" version="21.3.0" type="github">
   <diagram name="第 1 页" id="jqJrd9Sck8A6dQ75Ne0t">
     <mxGraphModel dx="2500" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="ayN-ifdYic-fvMNJGLhU-43" value="系统管理" style="rounded=1;fontSize=19;fontFamily=Times New Roman;flipV=0;flipH=0;direction=west;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="380" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ayN-ifdYic-fvMNJGLhU-44" value="学校意见箱管理" style="rounded=1;fontSize=19;fontFamily=Times New Roman;flipV=0;flipH=0;direction=west;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
+        <mxCell id="ayN-ifdYic-fvMNJGLhU-44" value="课程见箱管理" style="rounded=1;fontSize=19;fontFamily=Times New Roman;flipV=0;flipH=0;direction=west;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="380" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ayN-ifdYic-fvMNJGLhU-45" value="在线交流管理" style="rounded=1;fontSize=19;fontFamily=Times New Roman;flipV=0;flipH=0;direction=west;whiteSpace=wrap;html=1;horizontal=1;" parent="1" vertex="1">
